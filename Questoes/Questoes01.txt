@@ -1,0 +1,24 @@
+1- O que são sistemas embarcados?
+sistemas embarcados são sistemas de proposito especificos, ou seja, são encarrecados de uma função especifica, são normalmente 
+sistemas computacionais completos, e independentes, fazendo tarefas pré determinadas, normalmente repetidas vezes.
+
+2- O que são sistemas microprocessaods?
+
+
+3- Apresente aplicações de sistemas embarcados: 
+(a) Para a indústria automotiva; 
+processos especificos dos carros atuais geralemte se ultiliza sistemas embarcados, o acendimento automatico do farol por exemplo, é um
+sistema de proposito especifico, que acontece repetidas vezes, de maneira independente.
+
+(b) Para eletrodomésticos; 
+cada vez mais esse tipo de sistema vem sendo implementado, atualemte televisões possuem muita cvoisa desses tipo, facilitando a integração
+humano eletrodomestico.
+
+(c) Para automação industrial.
+um sistema de controle especifico, como o controle de um braço mecanico que opere de forma repetitiva.
+
+4- Cite arquiteturas possíveis e as diferenças entre elas.
+
+5- Por que usamos o Raspberry Pi na disciplina, ao invés de outro system-on-chip?
+pela sua capacidade de processamento e a facilidade de mexer em seus sistema, o facil acesso também é um fator determinante quando se
+ trata de acessibilidade dos alunos.
